@@ -1,0 +1,6 @@
+﻿  dodge.cpp
+C:\Users\염지윤\source\repos\dodge\dodge\dodge.cpp(21,16): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\염지윤\source\repos\dodge\dodge\dodge.cpp(21,18): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\염지윤\source\repos\dodge\dodge\dodge.cpp(34,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\염지윤\source\repos\dodge\dodge\dodge.cpp(98,22): warning C4018: '<': signed/unsigned mismatch
+  dodge.vcxproj -> C:\Users\염지윤\source\repos\dodge\Debug\dodge.exe
